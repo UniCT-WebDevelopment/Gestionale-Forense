@@ -1,0 +1,19 @@
+.main-content th {
+    border: solid 0% black;
+}
+
+table {  
+    border-collapse: collapse;  
+    width: 100%;  
+    }  
+      
+th, td {  
+border: 1px solid #ddd;  
+padding: 8px;  
+text-align: left;  
+}  
+    
+th {  
+background-color: #263126;  
+color: white;  
+}  
